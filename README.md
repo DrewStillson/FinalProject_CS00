@@ -8,4 +8,4 @@ To win the game you need to accuse the right suspect using the knowledge of the 
 
 Enjoy!
 
-You can play the game [here](https://drewstillson.github.io/FinalProject_CS00/){:target="_blank"}
+You can play the game [here](https://drewstillson.github.io/FinalProject_CS00/)
